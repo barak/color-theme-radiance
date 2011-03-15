@@ -30,15 +30,15 @@
 
 (custom-theme-set-faces
  'radiance
- '(default ((t (:background "#ffffff" :foreground "#333333"))))
+ '(default ((t (:background "#ffffff" :foreground "#000000"))))
  '(cursor ((t (:background "#aea79f" :foreground "#aea79f"))))
- '(region ((t (:background "#f6f5ef" :foreground "#333333"))))
- '(mode-line ((t (:background "#f6f5ef" :foreground "#333333"))))
- '(mode-line-inactive ((t (:background "#ffffff" :foreground "#333333"))))
+ '(region ((t (:background "#d6d5cf" :foreground "#333333"))))
+ '(mode-line ((t (:background "#cfcfcf" :foreground "#000000"))))
+ '(mode-line-inactive ((t (:background "#b6b6b6" :foreground "#333333"))))
  '(fringe ((t (:background "#f6f5ef"))))
  '(minibuffer-prompt ((t (:foreground "#f47321" :weight bold))))
  '(font-lock-builtin-face ((t (:foreground "#62124b"))))
- '(font-lock-comment-face ((t (:slant italic :foreground "#aea79f"))))
+ '(font-lock-comment-face ((t (:slant italic :foreground "#6e675f"))))
  '(font-lock-constant-face ((t (:foreground "#f68d47"))))
  '(font-lock-function-name-face ((t (:foreground "#860e73" :weight bold))))
  '(font-lock-keyword-face ((t (:foreground "#f47321" :weight bold))))
